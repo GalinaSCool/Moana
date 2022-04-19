@@ -11,6 +11,12 @@ body{
     font-size: 15px;
     font-weight: bolder;
 }
+.fone{
+    margin: auto;
+    width: 95%;
+    background: #eeffff;
+    box-shadow: 4px 8px 16px rgb(78, 121, 10);
+}
 
 h1{
     color: rgb(0, 4, 255);
